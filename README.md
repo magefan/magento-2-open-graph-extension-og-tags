@@ -15,7 +15,7 @@ OG Metadata is very important when it comes to social media sharing since it is 
 So to get more traffic from social media you need to come up with the creative titles and descriptions. Facebook Open Graph extension allows you to set the default Metadata for all pages to let others know more about your brand.
 
 <p align="center">
-  <img width="800" height="500" src="https://cm.magefan.com/catalog/product/o/p/open-graph-7.jpg">
+  <img width="700" height="400" src="https://cm.magefan.com/catalog/product/o/p/open-graph-7.jpg">
 </p>
 
 ### Automatic Open Graph Tags based on SEO data (Meta Tags)
@@ -29,13 +29,13 @@ As mentioned about, there iIt is true OG tags are placed  inside the page code. 
 Google’s top priority is to provide its users with the best results. But even if your content is one of the best, people are not going to learn about it because of the poor website loading speed. Converting images to WebP format, that is smaller in size than the usual JPN,JPG or GIF,  improves your website performance and SEO in general. 
 
 <p align="center">
-  <img width="800" height="500" src="https://cm.magefan.com/catalog/product/o/p/open-graph-1.jpg">
+  <img width="700" height="400" src="https://cm.magefan.com/catalog/product/o/p/open-graph-1.jpg">
 </p>
 <p align="center">
-  <img width="800" height="500" src="https://cm.magefan.com/catalog/product/o/p/open-graph-2.jpg">
+  <img width="700" height="400" src="https://cm.magefan.com/catalog/product/o/p/open-graph-2.jpg">
 </p>
 <p align="center">
-  <img width="800" height="500" src="https://cm.magefan.com/catalog/product/o/p/open-graph-4.jpg">
+  <img width="700" height="400" src="https://cm.magefan.com/catalog/product/o/p/open-graph-4.jpg">
 </p>
 
 ## Documentation
