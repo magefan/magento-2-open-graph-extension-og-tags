@@ -66,7 +66,7 @@ Google’s top priority is to provide its users with the best results. But even 
 
 Learn more about how to configure the OG tags for Magento 2 pages in [this short video](https://www.youtube.com/watch?v=39EQ-TLJJRA).
 
-## Other [Magento 2 Extensions](https://magefan.com/magento2-extensions) by Magefan
+## Other [Magento 2 Extensions](https://magefan.com/magento-2-extensions) by Magefan
   * [Magento 2 Blog Extension](https://magefan.com/magento2-blog-extension)
   * [Magento 2 Blog Plus Extension](https://magefan.com/magento2-blog-extension/pricing)
   * [Magento 2 Blog Extra Extension](https://magefan.com/magento2-blog-extension/pricing)
