@@ -68,6 +68,61 @@ Google’s top priority is to provide its users with the best results. But even 
 
 Learn more about how to configure the OG tags for Magento 2 pages in [this short video](https://www.youtube.com/watch?v=39EQ-TLJJRA).
 
+## Demo
+
+Try out our open demo and if you like our extension **please give us some star on Github ★**
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="middle">
+        Storefront Demo
+      </td>
+      <td align="center" valign="middle">
+        Admin Panel Demo
+      </td align="center" valign="middle">
+    </tr>
+    <tr>
+      <td align="center" valign="middle">
+        <a href="https://seo.demo.magefan.top/">
+          <img
+            src="https://magefan.com/static/version1520969775/frontend/Magefan/new/en_US/images/product-tab-demo-1.jpg"
+            alt="Magento 2 Facebook Open Graph Extension Storefront Demo"
+            height="220"
+          >
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="https://seo.demo.magefan.top/admin/admin/system_config/edit/section/mfogt/">
+          <img
+            src="https://magefan.com/static/version1520969775/frontend/Magefan/new/en_US/images/product-tab-demo-2.jpg"
+            alt="Magento 2 Facebook Open Graph Extension Admin Panel Demo"
+            height="220"
+          >
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle">
+        <a href="https://seo.demo.magefan.top/">
+          view
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="https://seo.demo.magefan.top/admin/admin/system_config/edit/section/mfogt/">
+          view
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+## Need More Features?
+Please contact us to get a quote
+https://magefan.com/contact
+
+## License
+The code is licensed under [EULA](https://magefan.com/end-user-license-agreement).
+
 ## Other [Magento 2 Extensions](https://magefan.com/magento-2-extensions) by Magefan
   * [Magento 2 Blog Extension](https://magefan.com/magento2-blog-extension)
   * [Magento 2 Blog Plus Extension](https://magefan.com/magento2-blog-extension/pricing)
