@@ -162,6 +162,7 @@ The code is licensed under [EULA](https://magefan.com/end-user-license-agreement
   * [Magento 2 SEO Extension](https://magefan.com/magento-2-seo-extension)
   * [Magento 2 Rich Snippets Extension](https://magefan.com/magento-2-rich-snippets)
   * [Magento 2 HTML Sitemap Extension](https://magefan.com/magento-2-html-sitemap-extension)
+  * [Magento 2 XML Sitemap Extension](https://magefan.com/magento-2-xml-sitemap-extension)
   * [Magento 2 SEO Suite Ultimate Extension](https://magefan.com/magento-2-seo-suite-ultimate-extension)
   * [Magento 2 Twitter Cards Extension](https://magefan.com/magento-2-twitter-cards-extension)
   * [Magento 2 Hreflang Tags Extension](https://magefan.com/magento2-alternate-hreflang-extension)
