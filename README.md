@@ -9,7 +9,7 @@
 [Facebook Open Graph](https://magefan.com/magento-2-open-graph-extension-og-tags) Tags is the extension for Magento 2 that enables you to easily set OG Metadata for your Magento 2 pages making them more attractive and clickable while sharing on social media. And since social media has become one of the main source of traffic for many websites it is important you optimize content you share there. 
 
 
-<a href="https://magefan.com/magento-2-open-graph-extension-og-tags"><img width="190" height="70" src="https://magefan.com/media/wysiwyg/download-now_1.png"></a>
+<a href="https://magefan.com/magento-2-open-graph-extension-og-tags"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/download-magefan-extensions.png"></a><a href="https://magefan.com/magento-2-open-graph-extension-og-tags#live-demo"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/magefan-live-demo.png"></a>
 
 ## Benefits
 
