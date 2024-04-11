@@ -1,4 +1,4 @@
-# Magento 2 Facebook Open Graph Extension
+# [Magento 2 Facebook Open Graph Tags](https://magefan.com/magento-2-open-graph-extension-og-tags) by Magefan
 
 <a href="https://savelife.in.ua/en/donate-en/#donate-army-card-monthly"><img width="830" height="208" src="https://cm.magefan.com/blog/support-ukraine.png"></a>
 
@@ -6,10 +6,12 @@
 
 <img align="right" width="120" height="120" src="https://cm.magefan.com/mf_webp/jpg/media/catalog/product/cache/016c1dcfcd29d2b85ead3d1156d7ba11/i/c/icon-open-graf-ip_1.webp">
 
-[Facebook Open Graph](https://magefan.com/magento-2-open-graph-extension-og-tags) Tags is the extension for Magento 2 that enables you to easily set OG Metadata for your Magento 2 pages making them more attractive and clickable while sharing on social media. And since social media has become one of the main source of traffic for many websites it is important you optimize content you share there. 
+[Magento 2 Facebook Open Graph Tags](https://magefan.com/magento-2-open-graph-extension-og-tags) is the extension for Magento 2 that enables you to easily set OG Metadata for your Magento 2 pages making them more attractive and clickable while sharing on social media. And since social media has become one of the main source of traffic for many websites you must optimize the content you share there. 
 
+<a href="https://magefan.com/magento-2-open-graph-extension-og-tags"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/download-magefan-extensions.png"></a><a href="https://magefan.com/magento-2-open-graph-extension-og-tags#live-demo"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/magefan-live-demo.png"></a><a href="https://magefan.com/magento-2-seo-extension"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/magefan-seo.png"></a>
 
-<a href="https://magefan.com/magento-2-open-graph-extension-og-tags"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/download-magefan-extensions.png"></a><a href="https://magefan.com/magento-2-open-graph-extension-og-tags#live-demo"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/magefan-live-demo.png"></a>
+## Requirements
+  * Magento Community 2.3.0-2.4.x (CE, EE, ECE, B2B)
 
 ## Benefits
 
@@ -23,7 +25,7 @@ OG Metadata is very important when it comes to social media sharing since it is 
 So to get more traffic from social media you need to come up with the creative titles and descriptions. Facebook Open Graph extension allows you to set the default Metadata for all pages to let others know more about your brand.
 
 <p align="center">
-  <img width="700" height="400" src="https://cm.magefan.com/catalog/product/o/p/open-graph-7.jpg">
+  <img src="https://cm.magefan.com/mf_webp/png/media/catalog/default-facebook-open-graph-tags_3.webp">
 </p>
 
 ### Automatic Open Graph Tags based on SEO data (Meta Tags)
@@ -37,13 +39,7 @@ As mentioned about, there iIt is true OG tags are placed  inside the page code. 
 Google’s top priority is to provide its users with the best results. But even if your content is one of the best, people are not going to learn about it because of the poor website loading speed. Converting images to WebP format, that is smaller in size than the usual JPN,JPG or GIF,  improves your website performance and SEO in general. 
 
 <p align="center">
-  <img width="700" height="400" src="https://cm.magefan.com/catalog/product/o/p/open-graph-1.jpg">
-</p>
-<p align="center">
-  <img width="700" height="400" src="https://cm.magefan.com/catalog/product/o/p/open-graph-2.jpg">
-</p>
-<p align="center">
-  <img width="700" height="400" src="https://cm.magefan.com/catalog/product/o/p/open-graph-4.jpg">
+  <img src="https://cm.magefan.com/mf_webp/png/media/catalog/facebook-open-graph-metadata_3.webp">
 </p>
 
 ## Documentation
@@ -118,6 +114,11 @@ Try out our open demo and if you like our extension **please give us some star o
     </tr>
   </tbody>
 </table>
+
+## Support
+If you have any issues, please [contact us](mailto:support@magefan.com)
+then if you still need help, open a bug report in GitHub's
+[issue tracker](https://github.com/magefan/magento-2-open-graph-extension-og-tags/issues).
 
 ## Need More Features?
 Please contact us to get a quote
